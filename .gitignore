@@ -1,0 +1,6 @@
+trained_models/
+.vscode/
+__pycache__/
+*.pt
+*.pth
+pytorch_model.bin
