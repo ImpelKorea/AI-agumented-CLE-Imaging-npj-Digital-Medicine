@@ -1,5 +1,5 @@
 # AI-Augmented Confocal Laser Endomicroscopy for Rapid Intraoperative Diagnosis of Brain Tumors: A Prospective Multicenter Evaluation
-Official implementation of "AI-augmented CLE Imaging" published in npj Digital Medicine.
+Official implementation of "AI-augmented CLE Imaging" in npj Digital Medicine.
 
 ## Environment Setup
 
